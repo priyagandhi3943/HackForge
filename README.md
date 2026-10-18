@@ -12,8 +12,7 @@ data or stream live hourly rows into it.
 
 The application is deployed and running live on Render:
 * **Landing Page:** [https://reservejuggler-ai.onrender.com/](https://reservejuggler-ai.onrender.com/)
-* **Dashboard:** [https://reservejuggler-ai.onrender.com/](https://reservejuggler-ai.onrender.com/)
-* **Interactive API Docs:** [https://reservejuggler-ai.onrender.com/](https://reservejuggler-ai.onrender.com/)
+* **Dashboard:** [https://reservejuggler-ai.onrender.com/app#/overview](https://reservejuggler-ai.onrender.com/app#/overview)
 
 *(Note: Free Render instances spin down after 15 minutes of inactivity. If you are the first visitor in a while, please allow ~30 seconds for the server to wake up).*
 
