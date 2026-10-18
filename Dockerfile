@@ -10,7 +10,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY backend ./backend
 COPY frontend ./frontend
-COPY tools ./tools
+#COPY tools ./tools
 COPY data/treasury_4tier_dataset.csv ./data/treasury_4tier_dataset.csv
 
 RUN useradd --create-home --uid 10001 rj && mkdir -p /data && chown rj:rj /data
