@@ -8,6 +8,19 @@ never moves money by itself.
 It ships with a demo year (`data/treasury_4tier_dataset.csv`, 8,760 hourly rows for 2026). You can upload your own
 data or stream live hourly rows into it.
 
+## 🌐 Live Deployment
+
+The application is deployed and running live on Render:
+* **Landing Page:** [https://reservejuggler-ai.onrender.com/](https://reservejuggler-ai.onrender.com/)
+* **Dashboard:** [https://reservejuggler-ai.onrender.com/](https://reservejuggler-ai.onrender.com/)
+* **Interactive API Docs:** [https://reservejuggler-ai.onrender.com/](https://reservejuggler-ai.onrender.com/)
+
+*(Note: Free Render instances spin down after 15 minutes of inactivity. If you are the first visitor in a while, please allow ~30 seconds for the server to wake up).*
+
+---
+
+## 💻 Run Locally (Development)
+
 ## Run it
 
 ```bash
